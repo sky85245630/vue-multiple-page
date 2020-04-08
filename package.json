@@ -7,7 +7,6 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "watch": "vue-cli-service watch"
-
   },
   "dependencies": {
     "core-js": "^3.6.4",
